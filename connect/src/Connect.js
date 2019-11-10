@@ -1,5 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 import {
   faYoutube,
   faFacebook,
@@ -7,8 +8,7 @@ import {
   faInstagram,
   faLinkedin,
   faGithub,
-  faGithubAlt,
-  faGithubSquare
+  faSoundcloud
 } from "@fortawesome/free-brands-svg-icons";
 
 export default function Connect() {
@@ -47,10 +47,17 @@ export default function Connect() {
 
 
       <a
-        href = "https://www.linkedin.com/in/derrekgass/"
+        href = "https://www.github.com/lazertooth/"
         className="github social"
       >
         <FontAwesomeIcon icon={faGithub} size="2x" />
+      </a>
+
+      <a
+        href = "https://soundcloud.com/soundslikeshrines"
+        className="soundcloud social"
+      >
+        <FontAwesomeIcon icon={faSoundcloud} size="2x" />
       </a>
 
     </div>

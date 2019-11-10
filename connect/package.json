@@ -8,8 +8,10 @@
     "@fortawesome/free-brands-svg-icons": "^5.11.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.7",
+    "@iconify/icons-fa": "^1.0.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
+    "react-player": "^1.14.0",
     "react-scripts": "3.2.0",
     "react-soundcloud": "^0.1.1",
     "react-soundcloud-embed": "^1.0.3"
