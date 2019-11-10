@@ -1,8 +1,8 @@
 {
   "name": "connect",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://lazertooth.github.io/connect-to-social",
+  "private": false,
+  "homepage": "https://lazertooth.github.io/connect-to-social/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
     "@fortawesome/free-brands-svg-icons": "^5.11.2",
