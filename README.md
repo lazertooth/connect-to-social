@@ -2,4 +2,4 @@
 simple app to connect to me on social platforms
 
 see it here:
-https://lazertooth.github.io/connect-to-social/
+https://derrek-gass.github.io/connect-to-social/
